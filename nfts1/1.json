@@ -1,0 +1,9 @@
+{
+    "name": "2",
+    "description": "2",
+    "marketplace": "getgems.io",
+    "image": "https://raw.githubusercontent.com/welaskez/test-nft-metadata/refs/heads/main/Love2.png",
+    "content_type": "video/mp4",
+    "content_url": "https://raw.githubusercontent.com/welaskez/test-nft-metadata/refs/heads/main/Export.mp4",
+    "attributes": []
+}

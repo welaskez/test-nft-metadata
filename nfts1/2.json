@@ -1,0 +1,9 @@
+{
+    "name": "3",
+    "description": "3",
+    "marketplace": "getgems.io",
+    "image": "https://raw.githubusercontent.com/welaskez/test-nft-metadata/refs/heads/main/image1.jpg",
+    "content_type": "video/mp4",
+    "content_url": "https://raw.githubusercontent.com/welaskez/test-nft-metadata/refs/heads/main/video1.mp4",
+    "attributes": []
+}
